@@ -1,0 +1,5 @@
+.env
+node_modules/
+sent_emails.json
+bin/
+templates/*
