@@ -2,6 +2,7 @@
 node_modules/
 sent_emails.json
 bin/
-templates/*
+templates/hasWebsite.json
+templates/noWebsite.json
 yarn.lock
 yarn-error.log
