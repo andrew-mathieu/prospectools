@@ -1,2 +1,2 @@
-Nom de l'entreprise,Secteur d'activité,Date d'ajout,Adresse e-mail de l'entreprise,Boolean (oui/non),District de l'entreprise,Numéro de téléphone de l'entreprise
-John Doe,Plombier,23 mars 2023 17:00,johndoe@mail.com,Oui,Paris,+1 234 567 891,
+Nom de l'entreprise,Secteur d'activité,Date d'ajout,Adresse e-mail de l'entreprise,Possède un site,District de l'entreprise,Numéro de téléphone de l'entreprise
+John Doe,Plombier,23 mars 2023 17:00,johndoe@mail.com,Oui,Paris,+1234 567 891
