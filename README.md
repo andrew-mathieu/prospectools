@@ -4,6 +4,8 @@ Prospectools est un outil créé par Andrew Mathieu pour envoyer des e-mails per
 
 ## Comment utiliser l'outil
 
+⚠️ Attention : Ce projet est entièrement dédié aux développeurs avancés en NodeJS pour le moment. Je prévois de développer une version ouverte au "grand public".
+
 1. Clonez le repo Github sur votre machine locale.
 2. Ouvrez le terminal et accédez au dossier où vous avez cloné le repo.
 3. Installez les dépendances en tapant `npm install` dans le terminal.
