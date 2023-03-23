@@ -3,3 +3,5 @@ node_modules/
 sent_emails.json
 bin/
 templates/*
+yarn.lock
+yarn-error.log
